@@ -1,9 +1,10 @@
 body {
     margin: 0;
-    padding: 8px;
+    padding: 16px;
 
     width: auto;
-    height: 100vh;
+    height: 96vh;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,11 +13,25 @@ body {
     background-color: hsl(30, 38%, 92%);
 }
 
+
+#product-img {
+    width: 100%;
+    height: 40%;
+    
+    background-image: url('../images/image-product-mobile.jpg');
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    border-radius: 8px 8px 0px 0px;
+}
+
 #product-card {
     padding: 16px;
 
     width: auto;
-    height: 400px;
+    height: 60%;
 
     display: flex;
     flex-direction: column;
@@ -28,17 +43,13 @@ body {
     border-radius: 0px 0px 8px 8px;
 }
 
-#product-img {
-    width: 100%;
-    height: 251px;
+#title {
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+}
 
-    background-image: url('../images/image-product-mobile.jpg');
-
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    border-radius: 8px 8px 0px 0px;
+#paragraph {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .attribution {
