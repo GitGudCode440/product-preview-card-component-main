@@ -42,7 +42,7 @@ body {
     width: 100%;
     height: 100%;
     
-    flex-basis: 30%;
+    flex-basis: 40%;
 
     background-image: url('../images/image-product-mobile.jpg');
 
@@ -58,7 +58,7 @@ body {
 
     width: 100%;
     height: 100%;
-    flex-basis: 70%;
+    flex-basis: 60%;
 
     display: flex;
     flex-direction: column;
@@ -69,6 +69,11 @@ body {
     background-color: white;
 
     border-radius: 0px 0px 8px 8px;
+}
+
+#subtitle {
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
 }
 
 #title {
@@ -130,11 +135,29 @@ body {
 
 }
 
-@media only screen and (max-width: 1440px) {
-    #product-card {
-        flex-direction: row;
+@media screen and (min-width: 1440px) {
 
+    /* body {
+        padding: 160px 512px;
+    } */
+
+    #content {
+        flex-direction: row;
+        
+        width: 910px;
+        height: 512px;
     }
+
+    #product-img {
+        background-image: url('../images/image-product-desktop.jpg');
+        flex-basis: 50%;
+    }
+
+    #product-card {
+        justify-content: space-evenly;
+        flex-basis: 50%;
+    }
+
 }
 
 .attribution {
