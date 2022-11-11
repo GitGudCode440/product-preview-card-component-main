@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on GitHub here](https://github.com/GitGudCode440/product-preview-card-component-main)
-- Live Site URL: [Site hostedon GitHub Pages here](https://gitgudcode440.github.io/product-preview-card-component-main/)
+- Live Site URL: [Site hosted on GitHub Pages here](https://gitgudcode440.github.io/product-preview-card-component-main/)
 
 ## My process
 
