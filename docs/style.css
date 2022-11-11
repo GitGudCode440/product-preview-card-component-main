@@ -44,7 +44,7 @@ body {
     
     flex-basis: 40%;
 
-    background-image: url('../images/image-product-mobile.jpg');
+    background-image: url('./images/image-product-mobile.jpg');
 
     background-size: cover;
     background-position: center;
@@ -149,7 +149,7 @@ body {
     }
 
     #product-img {
-        background-image: url('../images/image-product-desktop.jpg');
+        background-image: url('./images/image-product-desktop.jpg');
         flex-basis: 50%;
     }
 
