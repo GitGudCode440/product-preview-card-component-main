@@ -135,6 +135,14 @@ body {
 
 }
 
+#add-to-cart:hover {
+    background-color: hsl(173, 51%, 22%);
+}
+
+#add-to-cart:active {
+    background-color: hsl(173, 26%, 63%);
+}
+
 @media screen and (min-width: 1366px) {
 
     /* body {
