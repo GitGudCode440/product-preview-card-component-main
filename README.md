@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GitGudCode440/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://gitgudcode440.github.io/product-preview-card-component-main/)
+- Solution URL: [Solution on GitHub here](https://github.com/GitGudCode440/product-preview-card-component-main)
+- Live Site URL: [Site hostedon GitHub Pages here](https://gitgudcode440.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -55,7 +55,6 @@ The only thing I didn't learn is how to cure my stupidity :p.
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=dpuKVjX6BJ8) - Resource for learning how to set full width and height of a page of an HTML element.
--
 
 ## Author
 
